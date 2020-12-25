@@ -984,7 +984,7 @@ ul.right-menu-ul
     }
     .startup 
     {
-        height:auto
+        height:auto;
     }
     .startup-text
     {
@@ -1015,7 +1015,7 @@ ul.right-menu-ul
     }
     .sub-page-short-header
     {
-        font-size:18px;
+        font-size:15px;
         line-height:24px;
     }
     .work-board-container .col-lg-6:nth-child(2n)
@@ -1062,7 +1062,11 @@ ul.right-menu-ul
     .typo-container p
     {
         font-weight: 500;
-        font-size:30px
+        font-size:30px;
+    }
+    .colours-used-block
+    {
+        height:80px;
     }
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px)
