@@ -299,7 +299,7 @@ ul.right-menu-ul
 }
 .readmore-btn:hover::before
 {
-    width:300px !important;
+    width:250px !important;
 }
 .readmore-btn::before
 {
@@ -326,7 +326,7 @@ ul.right-menu-ul
 }
 .readmore-btn-w:hover::before
 {
-    width:300px !important;
+    width:250px !important;
 }
 .readmore-btn-w::before
 {
