@@ -821,6 +821,7 @@ ul.right-menu-ul
     }
     .desc
     {
+        margin:0px 10px;
         font-size:14px
     }
     .work-desc h1
