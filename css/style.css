@@ -296,6 +296,7 @@ ul.right-menu-ul
     line-height: 78%;
     color:#fff;
     line-height: 59px;
+    display: block;
 }
 .readmore-btn:hover::before
 {
