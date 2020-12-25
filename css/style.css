@@ -802,7 +802,7 @@ ul.right-menu-ul
     }
     .readmore-btn
     {
-        font-size: 11px;
+        font-size: 10px;
     }
     .readmore-btn::before
     {
@@ -812,7 +812,7 @@ ul.right-menu-ul
     }
     .readmore-btn-w
     {
-        font-size: 11px;
+        font-size: 10px;
     }
     .readmore-btn-w::before
     {
